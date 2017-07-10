@@ -28,7 +28,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      showgrid="false"
      inkscape:cy="251.08817"
-     inkscape:cx="303.56599"
+     inkscape:cx="111.65407"
      inkscape:zoom="0.65172414"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -79,7 +79,8 @@
        y2="337.46442"
        gradientUnits="userSpaceOnUse" /></defs><g
      id="g3371"
-     transform="translate(13.325283,-1.3909815)"><path
+     transform="translate(13.325283,-1.3909815)"
+     style="stroke:none"><path
        sodipodi:nodetypes="cssaaaasscc"
        inkscape:connector-curvature="0"
        id="path4319-5"

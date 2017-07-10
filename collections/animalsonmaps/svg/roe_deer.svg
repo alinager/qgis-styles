@@ -26,9 +26,9 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      showgrid="false"
-     inkscape:cy="290"
-     inkscape:cx="290"
-     inkscape:zoom="0.98641851"
+     inkscape:cy="327.61297"
+     inkscape:cx="-218.9873"
+     inkscape:zoom="0.49320926"
      pagecolor="#ffffff"
      bordercolor="#666666"
      guidetolerance="10.0"
@@ -51,7 +51,8 @@
        sodipodi:type="inkscape:persp3d"
        id="perspective3653"
        inkscape:persp3d-origin="290 : 193.33333 : 1" /></defs><g
-     id="g3353"><path
+     id="g3353"
+     style="stroke:none"><path
        sodipodi:nodetypes="cacaaasscc"
        inkscape:connector-curvature="0"
        id="path4319-5-9"
