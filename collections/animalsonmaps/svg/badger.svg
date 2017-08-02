@@ -24,8 +24,8 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      showgrid="false"
-     inkscape:cy="310.00185"
-     inkscape:cx="146.65506"
+     inkscape:cy="294.40321"
+     inkscape:cx="-6.8391638"
      inkscape:zoom="0.87299702"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -49,10 +49,10 @@
        sodipodi:type="inkscape:persp3d"
        id="perspective3653"
        inkscape:persp3d-origin="290 : 193.33333 : 1" /></defs><g
-     id="g3484"
-     transform="translate(0,-2.4259179)"><g
+     id="g3382"
+     transform="translate(5.3124306,-1.1454793)"><g
        style="fill:#000000"
-       transform="matrix(0.56819372,0,0,0.56819372,147.13313,261.2166)"
+       transform="matrix(0.62988334,0,0,0.62988334,126.30943,232.38386)"
        id="g3497"><ellipse
          stroke-width="param(outline-width) 0"
          stroke-opacity="param(outline-opacity)"
@@ -174,7 +174,7 @@
          sodipodi:nodetypes="zzsz"
          style="fill:#000000" /></g><g
        style="fill:#000000"
-       transform="matrix(0.56884091,0,0,0.56884091,-117.92112,-6.9721202)"
+       transform="matrix(0.56884091,0,0,0.56884091,-123.23355,-13.979955)"
        id="g3510"><ellipse
          stroke-width="param(outline-width) 0"
          stroke-opacity="param(outline-opacity)"
