@@ -41,7 +41,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="badger II">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="badger II ">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -163,7 +163,10 @@
               <effect type="outerGlow">
                 <prop k="blend_mode" v="0"/>
                 <prop k="blur_level" v="1"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
                 <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
                 <prop k="draw_mode" v="2"/>
                 <prop k="enabled" v="1"/>
                 <prop k="single_color" v="0,0,0,255"/>
@@ -193,7 +196,10 @@
               <effect type="innerGlow">
                 <prop k="blend_mode" v="0"/>
                 <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
                 <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
                 <prop k="draw_mode" v="2"/>
                 <prop k="enabled" v="0"/>
                 <prop k="single_color" v="255,255,255,255"/>
@@ -207,7 +213,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="bear (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="bear">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -247,7 +253,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="bear II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="bear II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -287,7 +293,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="bear track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="bear track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="15"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -300,7 +306,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@bear track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@bear track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -340,7 +346,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="bear track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="bear track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="15"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -353,7 +359,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@bear track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@bear track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -517,7 +523,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="beaver lodge (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="beaver lodge ">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -557,7 +563,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="beaver tree cut (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="beaver tree cut ">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -577,7 +583,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="burrow (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="burrow">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -617,7 +623,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="cat (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="cat">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -657,7 +663,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="cat II  (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="cat II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -697,7 +703,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="cat track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="cat track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="7"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -710,7 +716,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@cat track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@cat track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -732,7 +738,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="cat track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="cat track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="7"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -745,7 +751,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@cat track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@cat track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -829,7 +835,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="deer (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="deer">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="0,0,0,255"/>
@@ -869,7 +875,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="deer II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="deer II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="255,255,255,255"/>
@@ -909,7 +915,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="deer track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="deer track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="18"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -922,7 +928,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@deer track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@deer track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -962,7 +968,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="deer track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="deer track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="18"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -975,7 +981,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@deer track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@deer track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -1139,7 +1145,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="dog (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="dog">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -1179,7 +1185,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="dog II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="dog II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -1219,7 +1225,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="dog track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="dog track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="14"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1232,7 +1238,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@dog track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@dog track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="80"/>
             <prop k="color" v="0,0,0,255"/>
@@ -1396,7 +1402,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="dog track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="dog track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="14"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1409,7 +1415,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@dog track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@dog track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="80"/>
             <prop k="color" v="255,255,255,255"/>
@@ -1573,7 +1579,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="european bison (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="european bison">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -1613,7 +1619,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="european bison II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="european bison II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -1653,7 +1659,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="european bison track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="european bison track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1666,7 +1672,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@european bison track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@european bison track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="95"/>
             <prop k="color" v="0,0,0,255"/>
@@ -1706,7 +1712,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="european bison track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="european bison track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1719,7 +1725,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@european bison track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@european bison track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="95"/>
             <prop k="color" v="255,255,255,255"/>
@@ -1883,7 +1889,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="fox (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="fox">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -1923,7 +1929,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="fox II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="fox II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -1963,7 +1969,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="fox track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="fox track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="8"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1976,7 +1982,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@fox track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@fox track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -1998,7 +2004,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="fox track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="fox track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="8"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2011,7 +2017,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@fox track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@fox track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -2095,7 +2101,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="hare (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="hare">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -2135,7 +2141,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="hare II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="hare II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2175,7 +2181,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="hare track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="hare track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="9"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2188,7 +2194,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@hare track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@hare track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -2210,7 +2216,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="hare track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="hare track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="9"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2223,7 +2229,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@hare track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@hare track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -2307,7 +2313,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="hollow I (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="hollow I">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -2327,7 +2333,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="hollow II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="hollow II">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -2347,7 +2353,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="lynx (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="lynx">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="0,0,0,255"/>
@@ -2387,7 +2393,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="lynx II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="lynx II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2427,7 +2433,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="lynx track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="lynx track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="10"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2440,7 +2446,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@lynx track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@lynx track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -2462,7 +2468,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="lynx track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="lynx track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="10"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2475,7 +2481,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@lynx track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@lynx track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -2559,7 +2565,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="moose (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="moose">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="0,0,0,255"/>
@@ -2599,7 +2605,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="moose II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="moose II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2639,7 +2645,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="moose track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="moose track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2652,7 +2658,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@moose track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@moose track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -2692,7 +2698,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="moose track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="moose track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2705,7 +2711,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@moose track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@moose track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -2869,7 +2875,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest I (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest I">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2909,7 +2915,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2949,7 +2955,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest III (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="nest III">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -2989,7 +2995,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="otter (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="otter">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3029,7 +3035,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="otter II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="otter II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -3069,7 +3075,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="otter track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="otter track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="16"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3082,7 +3088,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@otter track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@otter track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="100"/>
             <prop k="color" v="0,0,0,255"/>
@@ -3122,7 +3128,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="otter track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="otter track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="16"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3135,7 +3141,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@otter track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@otter track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="100"/>
             <prop k="color" v="255,255,255,255"/>
@@ -3299,7 +3305,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="roe deer (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="roe deer">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3339,7 +3345,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="roe deer II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="roe deer II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -3379,7 +3385,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="roe deer track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="roe deer track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3392,7 +3398,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@roe deer track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@roe deer track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -3432,7 +3438,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="roe deer track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="roe deer track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="17"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3445,7 +3451,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@roe deer track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@roe deer track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -3609,7 +3615,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat I carnivore (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat I carnivore">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3629,7 +3635,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat II carnivore (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat II carnivore">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -3649,7 +3655,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat III herbivore (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="scat III herbivore">
       <layer pass="0" class="SvgMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3669,7 +3675,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="squirrel (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="squirrel">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3709,7 +3715,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="squirrel II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="squirrel II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="90"/>
         <prop k="color" v="255,255,255,255"/>
@@ -3749,7 +3755,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="squirrel track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="squirrel track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="7"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3762,7 +3768,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@squirrel track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@squirrel track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -3784,7 +3790,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="squirrel track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="squirrel track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="7"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3797,7 +3803,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@squirrel track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@squirrel track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
@@ -3881,7 +3887,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="wild boar (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="wild boar">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -3921,7 +3927,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="wild boar II  (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="wild boar II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -3961,7 +3967,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="wild boar track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="wild boar track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="11.2"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3974,7 +3980,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wild boar track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wild boar track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="97.5"/>
             <prop k="color" v="0,0,0,255"/>
@@ -4014,7 +4020,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="wild boar track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="wild boar track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="11.2"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -4027,7 +4033,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wild boar track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wild boar track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="97.5"/>
             <prop k="color" v="255,255,255,255"/>
@@ -4191,7 +4197,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="wolf (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="wolf">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="0,0,0,255"/>
@@ -4231,7 +4237,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="marker" name="wolf II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="marker" name="wolf II">
       <layer pass="0" class="SimpleMarker" locked="0">
         <prop k="angle" v="0"/>
         <prop k="color" v="255,255,255,255"/>
@@ -4271,7 +4277,7 @@
         <prop k="vertical_anchor_point" v="1"/>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="wolf track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="wolf track">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="10"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -4284,7 +4290,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wolf track (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wolf track@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="0,0,0,255"/>
@@ -4306,7 +4312,7 @@
         </symbol>
       </layer>
     </symbol>
-    <symbol alpha="1" clip_to_extent="1" type="line" name="wolf track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)">
+    <symbol alpha="1" clip_to_extent="1" type="line" name="wolf track II">
       <layer pass="0" class="MarkerLine" locked="0">
         <prop k="interval" v="10"/>
         <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -4319,7 +4325,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="rotate" v="1"/>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wolf track II (3f124f45a7f503d7ec0af4bacf9e456bb7e928a0)@0">
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@wolf track II@0">
           <layer pass="0" class="SvgMarker" locked="0">
             <prop k="angle" v="90"/>
             <prop k="color" v="255,255,255,255"/>
