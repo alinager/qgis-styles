@@ -51,7 +51,7 @@
        inkscape:persp3d-origin="290 : 193.33333 : 1" /></defs><g
      id="g3497"
      transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)"
-     style="fill:#000000" /><g
+     fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><g
      id="g3431"
      transform="matrix(0.90257274,0,0,0.90257274,18.326127,7.7462024)"><ellipse
        stroke-width="param(outline-width) 0"
@@ -66,7 +66,7 @@
        transform="matrix(1.0380821,-0.12956539,0.19268131,1.028239,26.958986,7.3048601)"
        inkscape:transform-center-x="10.92982"
        inkscape:transform-center-y="13.488522"
-       style="fill:#000000" /><path
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
        stroke="param(outline) #FFF"
@@ -75,7 +75,7 @@
        id="path4319"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csaccsscc"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><ellipse
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
@@ -89,7 +89,7 @@
        transform="matrix(1.0424943,0.087219,0.03257007,1.0456294,26.958986,7.3048601)"
        inkscape:transform-center-x="12.88118"
        inkscape:transform-center-y="10.044102"
-       style="fill:#000000" /><ellipse
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><ellipse
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
        stroke="param(outline) #FFF"
@@ -102,7 +102,7 @@
        transform="matrix(1.0238553,0.21476033,-0.09544695,1.0417732,26.958986,7.3048601)"
        inkscape:transform-center-x="14.351147"
        inkscape:transform-center-y="8.6007222"
-       style="fill:#000000" /><ellipse
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><ellipse
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
        stroke="param(outline) #FFF"
@@ -115,7 +115,7 @@
        transform="matrix(1.0034398,0.29582104,-0.1632297,1.0333236,26.958986,7.3048601)"
        inkscape:transform-center-x="15.840774"
        inkscape:transform-center-y="7.4847254"
-       style="fill:#000000" /><ellipse
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><ellipse
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
        stroke="param(outline) #FFF"
@@ -128,7 +128,7 @@
        transform="matrix(1.0428302,0.08310626,-0.12626288,1.0384889,26.958986,7.3048601)"
        inkscape:transform-center-x="15.952029"
        inkscape:transform-center-y="9.8853355"
-       style="fill:#000000" /><path
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
        stroke="param(outline) #FFF"
@@ -137,7 +137,7 @@
        id="path4328-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzsz"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
@@ -147,7 +147,7 @@
        id="path4328-2-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzsz"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
@@ -157,7 +157,7 @@
        id="path4328-2-2-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzsz"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
@@ -167,7 +167,7 @@
        id="path4328-2-2-17"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzsz"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><path
        stroke-width="param(outline-width) 0"
        stroke-opacity="param(outline-opacity)"
@@ -177,7 +177,7 @@
        id="path4328-2-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzsz"
-       style="fill:#000000"
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
        transform="matrix(1.0461365,0,0,1.0461365,26.958986,7.3048601)" /><path
        sodipodi:nodetypes="ssssss"
        inkscape:connector-curvature="0"
@@ -185,4 +185,4 @@
        d="m 428.21183,547.11131 c -5.2896,34.36686 2.68231,78.02959 -39.31988,81.12803 -23.01352,1.69767 -41.01005,-6.78153 -81.36861,-34.93821 -23.49999,-16.39508 -58.26961,-33.08995 -55.0848,-76.66219 4.17035,-57.05582 58.24374,-17.54217 99.47687,-25.1345 87.683,-16.1452 81.4214,22.30957 76.29642,55.60687 z"
        inkscape:transform-center-y="16.199556"
        inkscape:transform-center-x="19.047187"
-       style="fill:#000000" /></g></svg>
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /></g></svg>
