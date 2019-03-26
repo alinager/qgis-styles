@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,7 +11,7 @@
    id="svg2"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="lynx.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:version="0.32"
    x="0px"
    y="0px"
@@ -25,8 +24,8 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      showgrid="false"
-     inkscape:cy="171.27736"
-     inkscape:cx="-58.005516"
+     inkscape:cy="92.895086"
+     inkscape:cx="1001.2614"
      inkscape:zoom="0.46083856"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,13 +35,13 @@
      borderopacity="1.0"
      id="base"
      inkscape:current-layer="svg2"
-     inkscape:window-y="18"
-     inkscape:window-x="44"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="768"
-     inkscape:window-width="1280"
-     inkscape:window-maximized="0" /><defs
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:window-maximized="1" /><defs
      id="defs4"><inkscape:perspective
        inkscape:vp_z="580 : 290 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -50,30 +49,50 @@
        sodipodi:type="inkscape:persp3d"
        id="perspective3653"
        inkscape:persp3d-origin="290 : 193.33333 : 1" /></defs><g
-     id="g4190"
-     transform="translate(16.562918,-7.9663609)"><path
+     id="g4539"
+     transform="translate(-1.084982,1.2102886)"><path
        sodipodi:nodetypes="zsszz"
        inkscape:connector-curvature="0"
        id="path4140"
-       d="m 157.76134,334.11441 c 0.49797,40.59864 -21.91053,71.71935 -48.94423,71.73214 -27.033705,0.0131 -48.95837,-32.07829 -48.975829,-71.68581 -0.01746,-39.6075 23.287545,-72.13385 48.912599,-71.77842 25.62504,0.35544 48.50947,31.13345 49.00746,71.73209 z"
-       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
+       d="m 189.51396,321.80814 c 0.49797,40.59864 -21.91053,71.71935 -48.94423,71.73214 -27.0337,0.0131 -48.95837,-32.07829 -48.975829,-71.68581 -0.01746,-39.6075 23.287549,-72.13385 48.912599,-71.77842 25.62504,0.35544 48.50947,31.13345 49.00746,71.73209 z"
+       fill="param(fill) #000"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline) #FFF"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width) 0" /><path
        sodipodi:nodetypes="zsszz"
        inkscape:connector-curvature="0"
        id="path4140-2"
-       d="m 249.96126,160.34533 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.6075 23.28754,-72.133849 48.9126,-71.778419 25.62504,0.35544 48.50947,31.133449 49.00746,71.732089 z"
-       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
+       d="m 268.69414,167.56867 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.6075 23.28754,-72.133849 48.9126,-71.778419 25.62504,0.35544 48.50947,31.133449 49.00746,71.732089 z"
+       fill="param(fill) #000"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline) #FFF"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width) 0" /><path
        sodipodi:nodetypes="zsszz"
        inkscape:connector-curvature="0"
        id="path4140-2-8"
-       d="m 389.59088,115.84797 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.607494 23.28754,-72.133843 48.9126,-71.778413 25.62504,0.35544 48.50947,31.133449 49.00746,71.732083 z"
-       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
+       d="m 388.79415,112.22152 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.60749 23.28754,-72.133839 48.9126,-71.778409 25.62504,0.35544 48.50947,31.133449 49.00746,71.732079 z"
+       fill="param(fill) #000"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline) #FFF"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width) 0" /><path
        sodipodi:nodetypes="zsszz"
        inkscape:connector-curvature="0"
        id="path4140-2-8-6"
-       d="m 487.02475,260.08077 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.60749 23.28754,-72.13384 48.9126,-71.77841 25.62504,0.35544 48.50947,31.13345 49.00746,71.73208 z"
-       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /><path
-       sodipodi:nodetypes="zzzzzzzzzszzzzzzzz"
+       d="m 490.56793,252.11441 c 0.49797,40.59865 -21.91053,71.71936 -48.94423,71.73215 -27.03371,0.0131 -48.95837,-32.07829 -48.97583,-71.68582 -0.0175,-39.60749 23.28754,-72.13384 48.9126,-71.77841 25.62504,0.35544 48.50947,31.13345 49.00746,71.73208 z"
+       fill="param(fill) #000"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline) #FFF"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width) 0" /><path
+       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0"
+       sodipodi:nodetypes="zzzzzzzcczccazzz"
        inkscape:connector-curvature="0"
        id="path4188"
-       d="m 220.18518,350.60847 c 25.69049,-26.30849 49.84515,-36.30536 75.18519,-36.05821 25.34004,0.24715 37.93799,7.18389 59.07407,29.15344 21.13608,21.96955 41.27958,75.82412 51.40212,103.57143 10.12254,27.74731 12.26415,39.99476 10.74074,59.07407 -1.52341,19.07932 -15.81958,30.33144 -28.38624,35.29101 -12.56666,4.95957 -26.77618,4.50376 -33.75662,-2.30159 -6.98044,-6.80535 2.02061,-20.34283 -2.30158,-24.55026 -4.32219,-4.20743 -6.9842,-4.74207 -11.50794,-0.7672 -4.52374,3.97487 3.19785,10.17281 -3.83598,24.55027 -9.02679,18.45116 -67.39752,14.7615 -82.08994,2.30159 -14.69242,-12.45991 -7.91915,-25.10816 -12.27514,-28.38625 -4.35599,-3.27809 -5.85558,-2.59469 -9.20635,0.7672 -3.35077,3.36189 2.51773,11.99839 -1.53439,19.17989 -4.05212,7.1815 -13.22378,16.32859 -24.55026,17.64551 -11.32648,1.31692 -24.58703,-1.34037 -35.29101,-14.57672 -10.70398,-13.23635 -16.07526,-29.92046 -11.50794,-62.91006 4.56732,-32.9896 34.15078,-95.67563 59.84127,-121.98412 z"
-       fill="param(fill) #000" fill-opacity="param(fill-opacity)" stroke="param(outline) #FFF" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width) 0" /></g></svg>
+       d="m 241.88943,353.40931 c 19.38603,-31.24611 25.61409,-63.59459 50.40675,-68.83892 24.79265,-5.24432 38.59354,-1.19928 63.98439,15.67377 25.39084,16.87304 78.4147,73.76974 87.79407,92.15787 9.37937,18.38813 10.04487,35.75585 8.0847,53.17813 -1.96017,17.42228 -8.87829,33.03681 -20.07331,40.59921 -11.19503,7.56239 -25.16627,10.19347 -33.4544,5.06062 -8.28813,-5.13284 -4.60108,-15.41546 -9.73161,-18.58745 -6.10669,3.44244 -6.74301,17.44759 -7.66155,21.65835 -4.81842,19.96775 -62.60375,29.00169 -79.64509,20.01785 -17.04134,-8.98383 -12.62429,-14.66109 -17.58663,-16.91846 -6.1919,-2.98449 -5.45726,8.84773 -6.71039,13.6619 -2.40138,7.88841 -7.95283,17.69539 -16.07153,21.37963 -13.34891,6.0577 -30.54079,7.34608 -43.85635,-3.25921 -13.31557,-10.60527 -24.3412,-21.39107 -27.02378,-54.58712 -2.68257,-33.19605 32.1587,-89.95005 51.54473,-121.19617 z"
+       fill-opacity="param(fill-opacity)"
+       stroke="param(outline) #FFF"
+       stroke-opacity="param(outline-opacity)"
+       stroke-width="param(outline-width) 0" /></g></svg>
